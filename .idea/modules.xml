@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Redis-Implementation.iml" filepath="$PROJECT_DIR$/.idea/Redis-Implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Redis-Implementation-master/redis-implementation.iml" filepath="$PROJECT_DIR$/Redis-Implementation-master/redis-implementation.iml" />
+    </modules>
+  </component>
+</project>
